@@ -1,0 +1,6 @@
+# see https://github.com/screepers/screepers-standards/blob/master/SS3-Unified_Credentials_File.md
+servers:
+  main:
+    host: screeps.com
+    secure: true
+    token: "YOUR_TOKEN"
