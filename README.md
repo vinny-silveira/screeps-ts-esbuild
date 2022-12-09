@@ -32,7 +32,7 @@ The project needs some packages/programs to be properly installed in your OS. fo
 
 #### VSCode Prerequisites (or another IDE)
 
-For the code style (Airbnb) to be applied and preserved, install the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Prettier](https:// marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) in your IDE, and make sure your configuration JSON has the following parameters:
+For the code style (Airbnb) to be applied and preserved, install the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) in your IDE, and make sure your configuration JSON has the following parameters:
 
 ```json
 {
